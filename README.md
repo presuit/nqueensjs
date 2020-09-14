@@ -1,0 +1,2 @@
+# nqueensjs
+nqueens using js 
